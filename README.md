@@ -1,5 +1,5 @@
 
-## Single-cell analysis of immune and stroma cell remodeling in renal cell carcinoma primary tumors and bone metastatic lesions
+## Single-cell analysis of immune and stroma cell remodeling in clear cell renal cell carcinoma primary tumors and bone metastatic lesions
 
 Interactive views of Conos results:
 The following links provide interactive views to the Conos joint alignment results shown in the manuscript: (Please use Firefox or Chrome) 
