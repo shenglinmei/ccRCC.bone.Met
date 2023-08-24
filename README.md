@@ -1,7 +1,10 @@
 
 ## Single-cell analysis of immune and stroma cell remodeling in clear cell renal cell carcinoma primary tumors and bone metastatic lesions
+## Data resource:
+TBD
 
-Interactive views of Conos results:
+## Interactive views of cells:
+
 The following links provide interactive views to the Conos joint alignment results shown in the manuscript: (Please use Firefox or Chrome) 
 
 Tutorial video:
@@ -14,8 +17,6 @@ Tutorial video:
 - Analysis of stroma cells [view :mag:](http://pklab.med.harvard.edu/nikolas/pagoda2/frontend/current/pagodaURL/index.html?fileURL=http://pklab.med.harvard.edu/shenglin//RCC.bone.Met/Apps//stroma.all.bin) [embedding :blue_book:](https://www.dropbox.com/s/vwhsjsu8a44j7be/stroma.UMAP.png?dl=0) 
 
 
-## Data resource:
-TBD
 
 
 ## Code availability:
