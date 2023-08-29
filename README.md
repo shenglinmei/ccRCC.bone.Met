@@ -2,11 +2,12 @@
 ## Single-cell analysis of immune and stroma cell remodeling in clear cell renal cell carcinoma primary tumors and bone metastatic lesions
 
 ## Data resource:
-- raw count matrixes [download link :arrow_up_down:](https://drive.google.com/file/d/1zSmVPQ5z8XYm75cGB6rZpkFuB3La6JnP/view?usp=sharing)
+- Raw count matrixes [download link :arrow_up_down:](https://drive.google.com/file/d/1zSmVPQ5z8XYm75cGB6rZpkFuB3La6JnP/view?usp=sharing)
 - Cell annotations [download link :arrow_up_down:](https://drive.google.com/file/d/1za6ZRTakmtqHQjlnsFa_LevNYw2AmsuY/view?usp=sharing)
-- Benign stroma raw counts [download link :arrow_up_down:](https://drive.google.com/file/d/1-Jhd2KJB8g8ozGevodvkXrm6t8qIY9dy/view?usp=sharing)
-- Benign stroma cell annotation [download link :arrow_up_down:](https://drive.google.com/file/d/1-XQuZjO9C-eQvcQbTTrAkwKljbfIIkjq/view?usp=sharing)
+- Raw counts for Benign stroma cells [download link :arrow_up_down:](https://drive.google.com/file/d/1-Jhd2KJB8g8ozGevodvkXrm6t8qIY9dy/view?usp=sharing)
+- Cell annotations for Benign stroma cell  [download link :arrow_up_down:](https://drive.google.com/file/d/1-XQuZjO9C-eQvcQbTTrAkwKljbfIIkjq/view?usp=sharing)
 - UMAP embedding Figure 1C [download link :arrow_up_down:](https://drive.google.com/file/d/1-FZjzPcwpDZzmmB9ZLnL_8lUVHkggB3l/view?usp=sharing)
+
 
 ## Interactive views of cells:
 
